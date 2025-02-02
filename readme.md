@@ -11,6 +11,7 @@
 9. pip freeze > requirements.txt
 10. pipenv install -r requirements.txt
 11. pipenv run python app.py
+12. To check in pipenv --venv
     
 # Added following features in app4.py file
 
