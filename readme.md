@@ -10,7 +10,8 @@
 8. pipenv graph
 9. pip freeze > requirements.txt
 10. pipenv install -r requirements.txt
-
+11. pipenv run python app.py
+    
 # Added following features in app4.py file
 
 1. Multiple PDF Uploads: You can now upload and process multiple PDF files.
