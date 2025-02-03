@@ -12,6 +12,8 @@
 10. pipenv install -r requirements.txt
 11. pipenv run python app.py
 12. To check in pipenv --venv
+13. To remove pipenv --rm
+14. pipenv shell 
     
 # Added following features in app4.py file
 
